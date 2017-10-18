@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Counter</string>
+    <string name="instructions">ضع الهاتف في السجادة تحت ذقنك في وضعية السجود\nإضغط على الرقم أعلاه للعودة إلى الصفر</string>
+</resources>
